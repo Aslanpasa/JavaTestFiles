@@ -6,6 +6,69 @@
     "configurations": [
         {
             "type": "java",
+            "name": "TeamLeaderFun",
+            "request": "launch",
+            "mainClass": "TeamLeaderFun",
+            "projectName": "JavaTestFiles_c2867e6f"
+        },
+        {
+            "type": "java",
+            "name": "ProgramSummary",
+            "request": "launch",
+            "mainClass": "ProgramSummary",
+            "projectName": "JavaTestFiles_c2867e6f"
+        },
+        {
+            "type": "java",
+            "name": "LabProgram",
+            "request": "launch",
+            "mainClass": "LabProgram",
+            "projectName": "JavaTestFiles_c2867e6f"
+        },
+        {
+            "type": "java",
+            "name": "CharityFoodOrders",
+            "request": "launch",
+            "mainClass": "CharityFoodOrders",
+            "projectName": "JavaTestFiles_c2867e6f"
+        },
+        {
+            "type": "java",
+            "name": "ProgramsAndMaths",
+            "request": "launch",
+            "mainClass": "ProgramsAndMaths",
+            "projectName": "JavaTestFiles_c2867e6f"
+        },
+        {
+            "type": "java",
+            "name": "Variables",
+            "request": "launch",
+            "mainClass": "Variables",
+            "projectName": "JavaTestFiles_c2867e6f"
+        },
+        {
+            "type": "java",
+            "name": "FibonnaciNumbers",
+            "request": "launch",
+            "mainClass": "FibonnaciNumbers",
+            "projectName": "JavaTestFiles_c2867e6f"
+        },
+        {
+            "type": "java",
+            "name": "Sum",
+            "request": "launch",
+            "mainClass": "Sum",
+            "projectName": "JavaTestFiles_c2867e6f"
+        },
+        {
+            "type": "java",
+            "name": "sum",
+            "request": "launch",
+            "mainClass": "sum",
+            "projectName": "JavaTestFiles_c2867e6f"
+        },
+        {
+            "type": "java",
             "name": "loops",
             "request": "launch",
             "mainClass": "loops",
