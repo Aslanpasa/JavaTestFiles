@@ -6,6 +6,139 @@
     "configurations": [
         {
             "type": "java",
+            "name": "TrappingRainWaterProblem2",
+            "request": "launch",
+            "mainClass": "TrappingRainWaterProblem2",
+            "projectName": "JavaTestFiles_c2867e6f"
+        },
+        {
+            "type": "java",
+            "name": "MembershipFinder",
+            "request": "launch",
+            "mainClass": "MembershipFinder",
+            "projectName": "JavaTestFiles_c2867e6f"
+        },
+        {
+            "type": "java",
+            "name": "AbritraryString",
+            "request": "launch",
+            "mainClass": "AbritraryString",
+            "projectName": "JavaTestFiles_c2867e6f"
+        },
+        {
+            "type": "java",
+            "name": "TrappingRainWaterProblem",
+            "request": "launch",
+            "mainClass": "TrappingRainWaterProblem",
+            "projectName": "JavaTestFiles_c2867e6f"
+        },
+        {
+            "type": "java",
+            "name": "ReverseIndex",
+            "request": "launch",
+            "mainClass": "ReverseIndex",
+            "projectName": "JavaTestFiles_c2867e6f"
+        },
+        {
+            "type": "java",
+            "name": "SinArrayVersion",
+            "request": "launch",
+            "mainClass": "SinArrayVersion",
+            "projectName": "JavaTestFiles_c2867e6f"
+        },
+        {
+            "type": "java",
+            "name": "EnumPractice",
+            "request": "launch",
+            "mainClass": "EnumPractice",
+            "projectName": "JavaTestFiles_c2867e6f"
+        },
+        {
+            "type": "java",
+            "name": "MathStuff",
+            "request": "launch",
+            "mainClass": "MathStuff",
+            "projectName": "JavaTestFiles_c2867e6f"
+        },
+        {
+            "type": "java",
+            "name": "TeacherSineWave",
+            "request": "launch",
+            "mainClass": "TeacherSineWave",
+            "projectName": "JavaTestFiles_c2867e6f"
+        },
+        {
+            "type": "java",
+            "name": "SineWave",
+            "request": "launch",
+            "mainClass": "SineWave",
+            "projectName": "JavaTestFiles_c2867e6f"
+        },
+        {
+            "type": "java",
+            "name": "CeaserCypher",
+            "request": "launch",
+            "mainClass": "CeaserCypher",
+            "projectName": "JavaTestFiles_c2867e6f"
+        },
+        {
+            "type": "java",
+            "name": "UnicodeCharacters",
+            "request": "launch",
+            "mainClass": "UnicodeCharacters",
+            "projectName": "JavaTestFiles_c2867e6f"
+        },
+        {
+            "type": "java",
+            "name": "DateParser",
+            "request": "launch",
+            "mainClass": "DateParser",
+            "projectName": "JavaTestFiles_c2867e6f"
+        },
+        {
+            "type": "java",
+            "name": "NestedLoops",
+            "request": "launch",
+            "mainClass": "NestedLoops",
+            "projectName": "JavaTestFiles_c2867e6f"
+        },
+        {
+            "type": "java",
+            "name": "DropFirstThreeFields",
+            "request": "launch",
+            "mainClass": "DropFirstThreeFields",
+            "projectName": "JavaTestFiles_c2867e6f"
+        },
+        {
+            "type": "java",
+            "name": "PlusSignSeparatedValues",
+            "request": "launch",
+            "mainClass": "PlusSignSeparatedValues",
+            "projectName": "JavaTestFiles_c2867e6f"
+        },
+        {
+            "type": "java",
+            "name": "MaxNum",
+            "request": "launch",
+            "mainClass": "MaxNum",
+            "projectName": "JavaTestFiles_c2867e6f"
+        },
+        {
+            "type": "java",
+            "name": "BarGraph",
+            "request": "launch",
+            "mainClass": "BarGraph",
+            "projectName": "JavaTestFiles_c2867e6f"
+        },
+        {
+            "type": "java",
+            "name": "numSeries",
+            "request": "launch",
+            "mainClass": "numSeries",
+            "projectName": "JavaTestFiles_c2867e6f"
+        },
+        {
+            "type": "java",
             "name": "TeamLeaderFun",
             "request": "launch",
             "mainClass": "TeamLeaderFun",

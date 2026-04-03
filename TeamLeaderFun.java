@@ -5,6 +5,7 @@
  haven't entered something, we have to show that differently." */
 import java.util.Scanner;
  public class TeamLeaderFun {
+    @SuppressWarnings("ConvertToTryWithResources")
     public static void main(String[] args) {
         String userName;
         int birthYear;
@@ -15,6 +16,7 @@ import java.util.Scanner;
         birthYear = Integer.parseInt(scnr.next());
         if ((birthYear <2026)&&(birthYear > 1901)) {System.out.printf("You are a valid age ");}
         else{System.out.printf("You are an invalid age");}
+        scnr.close();
     }
 
     

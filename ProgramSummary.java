@@ -28,5 +28,6 @@ public class ProgramSummary{
         } else if (userScore >= 3000) {
           System.out.println("Congratulations you have made it into the Platinum!!!");
         }
-    }
+        scnr.close();
+    }   
 }

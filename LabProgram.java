@@ -13,6 +13,7 @@ public class LabProgram {
       double temprDayTwo = Double.parseDouble(scnr.next());
       int rainDayTwo = Integer.parseInt(scnr.next());
       int percHumidityDayTwo = Integer.parseInt(scnr.next());
+      scnr.close();
       weightingDayOne = 0.0;
       if (temprDayOne < 15) {
          weightingDayOne += 2 * 3;
@@ -66,5 +67,5 @@ public class LabProgram {
       } else {
          System.out.print("The best day to hold your event is: Day 2");
       }
-   }
+   }  
 }
